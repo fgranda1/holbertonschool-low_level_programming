@@ -9,5 +9,5 @@ int main(void)
 	strcpy(msg, "\"Programming is like building a multilingual puzzle");
 
 	puts(msg);
-	Return (0);
+	return (0);
 }
