@@ -7,10 +7,6 @@
 int main(void)
 {
 
-	char msg[55];
-
-	strcpy(msg, "with proper grammar, but the outcome is a piece of art,");
-
-	puts(msg);
+	printf("with proper grammar, but the outcome is a piece of art\n");
 	return (0);
 }
