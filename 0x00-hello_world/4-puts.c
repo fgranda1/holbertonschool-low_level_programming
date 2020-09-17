@@ -8,6 +8,6 @@ int main(void)
 
 	strcpy(msg, "\"Programming is like building a multilingual puzzle\n");
 
-	puts(msg);	
+	puts(msg);
 	return (0);
 }
